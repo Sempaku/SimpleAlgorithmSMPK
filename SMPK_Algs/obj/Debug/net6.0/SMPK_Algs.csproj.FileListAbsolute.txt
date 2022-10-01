@@ -1,0 +1,15 @@
+C:\Users\79172\source\repos\Sempaku\SimpleAlgorithmSMPK\SMPK_Algs\bin\Debug\net6.0\SMPK_Algs.exe
+C:\Users\79172\source\repos\Sempaku\SimpleAlgorithmSMPK\SMPK_Algs\bin\Debug\net6.0\SMPK_Algs.deps.json
+C:\Users\79172\source\repos\Sempaku\SimpleAlgorithmSMPK\SMPK_Algs\bin\Debug\net6.0\SMPK_Algs.runtimeconfig.json
+C:\Users\79172\source\repos\Sempaku\SimpleAlgorithmSMPK\SMPK_Algs\bin\Debug\net6.0\SMPK_Algs.dll
+C:\Users\79172\source\repos\Sempaku\SimpleAlgorithmSMPK\SMPK_Algs\bin\Debug\net6.0\SMPK_Algs.pdb
+C:\Users\79172\source\repos\Sempaku\SimpleAlgorithmSMPK\SMPK_Algs\obj\Debug\net6.0\SMPK_Algs.csproj.AssemblyReference.cache
+C:\Users\79172\source\repos\Sempaku\SimpleAlgorithmSMPK\SMPK_Algs\obj\Debug\net6.0\SMPK_Algs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79172\source\repos\Sempaku\SimpleAlgorithmSMPK\SMPK_Algs\obj\Debug\net6.0\SMPK_Algs.AssemblyInfoInputs.cache
+C:\Users\79172\source\repos\Sempaku\SimpleAlgorithmSMPK\SMPK_Algs\obj\Debug\net6.0\SMPK_Algs.AssemblyInfo.cs
+C:\Users\79172\source\repos\Sempaku\SimpleAlgorithmSMPK\SMPK_Algs\obj\Debug\net6.0\SMPK_Algs.csproj.CoreCompileInputs.cache
+C:\Users\79172\source\repos\Sempaku\SimpleAlgorithmSMPK\SMPK_Algs\obj\Debug\net6.0\SMPK_Algs.dll
+C:\Users\79172\source\repos\Sempaku\SimpleAlgorithmSMPK\SMPK_Algs\obj\Debug\net6.0\refint\SMPK_Algs.dll
+C:\Users\79172\source\repos\Sempaku\SimpleAlgorithmSMPK\SMPK_Algs\obj\Debug\net6.0\SMPK_Algs.pdb
+C:\Users\79172\source\repos\Sempaku\SimpleAlgorithmSMPK\SMPK_Algs\obj\Debug\net6.0\SMPK_Algs.genruntimeconfig.cache
+C:\Users\79172\source\repos\Sempaku\SimpleAlgorithmSMPK\SMPK_Algs\obj\Debug\net6.0\ref\SMPK_Algs.dll
