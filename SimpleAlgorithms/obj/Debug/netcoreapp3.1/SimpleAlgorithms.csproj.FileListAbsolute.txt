@@ -8,3 +8,5 @@ C:\Users\sempaku\Desktop\SMPK_ALGORITHM\SimpleAlgorithms\obj\Debug\netcoreapp3.1
 C:\Users\sempaku\Desktop\SMPK_ALGORITHM\SimpleAlgorithms\obj\Debug\netcoreapp3.1\SimpleAlgorithms.csproj.CoreCompileInputs.cache
 C:\Users\sempaku\Desktop\SMPK_ALGORITHM\SimpleAlgorithms\obj\Debug\netcoreapp3.1\SimpleAlgorithms.dll
 C:\Users\sempaku\Desktop\SMPK_ALGORITHM\SimpleAlgorithms\obj\Debug\netcoreapp3.1\SimpleAlgorithms.pdb
+C:\Users\79172\Source\Repos\Sempaku\SimpleAlgorithmSMPK\SimpleAlgorithms\obj\Debug\netcoreapp3.1\SimpleAlgorithms.dll
+C:\Users\79172\Source\Repos\Sempaku\SimpleAlgorithmSMPK\SimpleAlgorithms\obj\Debug\netcoreapp3.1\SimpleAlgorithms.pdb
